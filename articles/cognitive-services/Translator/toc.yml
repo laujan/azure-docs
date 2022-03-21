@@ -98,7 +98,6 @@ items:
     - name: Request limits
       href: request-limits.md
 - name: Document Translation
-  expanded: true
   items:
     - name: What is Document Translation?
       href: document-translation/overview.md
@@ -137,7 +136,6 @@ items:
     - name: FAQ
       href: document-translation/faq.md
 - name: Custom Translator
-  expanded: true
   items:
   - name: What is Custom Translator?
     href: custom-translator/overview.md
